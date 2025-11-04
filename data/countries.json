@@ -1,0 +1,17 @@
+[
+  { "country": "Russland",    "company": "Lukoil",            "emissions_mio_t": 74.2 },
+  { "country": "Russland",    "company": "AFK Sistema",       "emissions_mio_t": 6.4 },
+  { "country": "Russland",    "company": "Evraz",             "emissions_mio_t": 28.7 },
+
+  { "country": "Deutschland", "company": "HOCHTIEF",          "emissions_mio_t": 1.3 },
+  { "country": "Deutschland", "company": "BASF",              "emissions_mio_t": 22.8 },
+  { "country": "Deutschland", "company": "Merck",             "emissions_mio_t": 3.1 },
+
+  { "country": "China",       "company": "Tencent",           "emissions_mio_t": 4.8 },
+  { "country": "China",       "company": "PetroChina",        "emissions_mio_t": 96.5 },
+  { "country": "China",       "company": "Kweichow Moutai",   "emissions_mio_t": 2.6 },
+
+  { "country": "Türkei",      "company": "QNB Finansbank",    "emissions_mio_t": 0.6 },
+  { "country": "Türkei",      "company": "Erdemir",           "emissions_mio_t": 12.4 },
+  { "country": "Türkei",      "company": "Yapi Kredi",        "emissions_mio_t": 0.5 }
+]
