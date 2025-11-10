@@ -18,5 +18,3 @@ Diese Webanwendung wurde im Rahmen einer Fallstudie entwickelt und zeigt fiktive
 - assets/js/ -> Skripte
 - assets/img/ -> Logo
 
-## Nutzung 
-index.html im Browser öffnen
